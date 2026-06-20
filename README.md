@@ -1,4 +1,5 @@
 # Blast-and-Rescue
+![ゲームプレイ画面](<img width="218" height="143" alt="スクリーンショット 2026-06-20 131640" src="https://github.com/user-attachments/assets/120e3f4d-cead-4a87-8092-0a6d967a1c7a" />)
 
 ## 概要
 VR開発サークル「UT-virtual」にて制作したVRゲームです。Blast & Rescueは、強力な反動を味わえるマシンガン型コントローラーでエイリアンを撃破し、さらわれた猫を救うVRゲームです。武器強化を経て、最後はボス戦に挑みます。
