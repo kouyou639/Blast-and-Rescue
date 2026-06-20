@@ -11,7 +11,7 @@ VR開発サークル「UT-virtual」にて制作したVRゲームです。Blast 
 ## 使用技術・ツール
 - **Engine**: Unity
 - **Language**: C#
-- **Version Control**: Git/GitHub
+- **Version Control**: Unity Version Control
 
 ## 技術的こだわり・工夫
 - **効率的な連携**: [Unity標準のAnimation機能ではなく、C#による独自の軌道計算・補間処理スクリプトを実装することで、修理対象との位置関係に応じた自然なハンマーの軌道を表現した。]
